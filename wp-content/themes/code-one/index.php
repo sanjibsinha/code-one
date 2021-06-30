@@ -1,5 +1,5 @@
-<?php get_header();
-
+<?php
+get_header();
 while (have_posts()) {
     # code...
     the_post(); ?>
